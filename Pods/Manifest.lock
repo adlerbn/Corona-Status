@@ -1,0 +1,30 @@
+PODS:
+  - BetterSegmentedControl (2.0.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - CountryKit (2.0.1)
+  - RAMAnimatedTabBarController (5.2.0)
+
+DEPENDENCIES:
+  - BetterSegmentedControl
+  - Charts
+  - CountryKit
+  - RAMAnimatedTabBarController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BetterSegmentedControl
+    - Charts
+    - CountryKit
+    - RAMAnimatedTabBarController
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: 09607b27861d49cbce48b7673b74f9150a3d371a
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  CountryKit: 29eeed8159ddfe30056cf5fbe68ad8ab111e8139
+  RAMAnimatedTabBarController: 6863a386e7ae2ab227cd60aa73ab8ff56cdacfdd
+
+PODFILE CHECKSUM: 8cc66302b695f63e5f53799576abffaa71d0d3a9
+
+COCOAPODS: 1.5.2
